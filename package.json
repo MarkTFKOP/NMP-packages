@@ -1,0 +1,23 @@
+{
+  "name": "my-logger-this",
+  "version": "1.0.0",
+  "description": "testing my first package logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTFKOP/NMP-packages.git"
+  },
+  "keywords": [
+    "my-logger-this"
+  ],
+  "author": "markTFKOP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkTFKOP/NMP-packages/issues"
+  },
+  "homepage": "https://github.com/MarkTFKOP/NMP-packages#readme",
+  "dependencies": {}
+}
